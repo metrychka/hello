@@ -3,3 +3,4 @@ echo "Hello world!"
 rtgaertg
 
 Hello, git!
+Hello, git rebase!
